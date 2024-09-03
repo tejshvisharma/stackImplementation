@@ -1,17 +1,7 @@
 #include<iostream>
 
 using namespace std;
-// int main(){
-//     stack <int> s;
-//     s.push(2);
-//     s.push(3);
-//     s.push(4);
-//     s.pop();
-//     cout<<"printing the top element of the stack:"<<s.top()<<endl;
-//     bool empty =s.empty();
-//     cout<<"Is stack empty :" << empty<<endl;
 
-// }
 
 class stack
 {
